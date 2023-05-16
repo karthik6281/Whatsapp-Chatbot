@@ -18,6 +18,8 @@
 
     3)https://mythicalai.substack.com/p/how-to-train-chatgpt-on-your-own
 
+**Host - Link** : http://karthik6281.pythonanywhere.com/
+
 
 
 
